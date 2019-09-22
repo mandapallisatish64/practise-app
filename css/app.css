@@ -1,0 +1,13 @@
+body {
+    margin-top:50px;
+}
+.row1,.row2,.row3,.row4{
+    margin-bottom:30px;
+}
+.total-error,.rate-error{
+    color:red;
+}
+.head{
+    text-align:center;
+    padding-bottom:20px;
+}
